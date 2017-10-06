@@ -13,7 +13,7 @@ Data Management
   data-insights-publication
 
 We introduce the philosophy behind the data management architecture of
-the DAF platform describing the following topics:
+the DAF describing the following topics:
 
 -  `Adding a new dataset <dataset-adding>`__
 -  `Data ingestion <data-ingestion>`__
